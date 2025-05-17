@@ -154,6 +154,7 @@ Int Fa 0/7
 
 IP CAMERA needs MAC dhcp Reservation:
 CoreBABA:
+conf t
 ip dhcp pool CAM6
 host 10.21.50.6 255.255.255.0
 client-identifier 001a.0709.c252
