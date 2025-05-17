@@ -30,6 +30,7 @@ config t
 	 ip add 10.21.100.2 255.255.255.0
 	 description VOICEVLAN
 
+end
 !@@@LeafSwitchONLY
 config t
    hostname COREbaba21
